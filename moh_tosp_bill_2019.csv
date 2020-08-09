@@ -1,4 +1,4 @@
-Year,TOSP code,TOSP Description,TOSP table no.,TOSP Common name,Setting,Ward Type,P25 Bill,P50 Bill,P75 Bill,P25 Operation Fee,P50 Operation Fee,P75 Operation Fee,P25 Surgeon Fee,P50 Surgeon Fee,P75 Surgeon Fee,P25 Anaesthetist Fee,P50 Anaesthetist Fee,P75 Anaesthetist Fee,P25 Facility Fee,P50 Facility Fee,P75 Facility Fee,P25 Implant Fee,P50 Implant Fee,P75 Implant Fee,P25 Other Fee,P50 Other Fee,P75 Other Fee
+YEAR,TOPS_CODE,TOSP_DESCRIPTION,TOSP_TABLE_NO,TOSP_COMMON_NAME,SETTING,WARD_TYPE,P25_BILL,P50_BILL,P75_BILL,P25_OPERATION_FEE,P50_OPERATION_FEE,P75_OPERATION_FEE,P25_SURGEON_FEE,P50_SURGEON_FEE,P75_SURGEON_FEE,P25_ANAESTHETIST_FEE,P50_ANAESTHETIST_FEE,P75_ANAESTHETIST_FEE,P25_FACILITY_FEE,P50_FACILITY_FEE,P75_FACILITY_FEE,P25_IMPLANT_FEE,P50_IMPLANT_FEE,P75_IMPLANT_FEE,P25_OTHER_FEE,P50_OTHER_FEE,P75_OTHER_FEE
 2019,SA701S,"Skin and Subcutaneous Tissue, Tumor/Cyst/Ulcer/Scar, Excision biopsy, removal of 2 or more or recurrent or complicated (adherent), excision",2A,"Skin lesion, removal of tissue (multiple/recurrent/complex)",Private Hospitals/ Clinics,Clinics,"1,456","2,099","3,532","1,070","1,605","3,210",952,"1,284","2,534",0,0,0,0,0,634,-,-,-,300,443,624
 2019,SA701S,"Skin and Subcutaneous Tissue, Tumor/Cyst/Ulcer/Scar, Excision biopsy, removal of 2 or more or recurrent or complicated (adherent), excision",2A,"Skin lesion, removal of tissue (multiple/recurrent/complex)",Private Hospitals/ Clinics,Day Surgery,"3,373","4,755","6,496","2,652","3,842","5,309","1,284","2,140","3,000",0,0,669,"1,152","1,456","1,899",n/a,n/a,n/a,618,868,"1,239"
 2019,SA701S,"Skin and Subcutaneous Tissue, Tumor/Cyst/Ulcer/Scar, Excision biopsy, removal of 2 or more or recurrent or complicated (adherent), excision",2A,"Skin lesion, removal of tissue (multiple/recurrent/complex)",Public Hospitals/ Centres (Unsubsidised),Day Surgery (Unsubsidised),"1,181","1,471","1,657",856,"1,011","1,156",-,-,-,-,-,-,-,-,-,-,-,-,254,404,622
@@ -713,45 +713,3 @@ Year,TOSP code,TOSP Description,TOSP table no.,TOSP Common name,Setting,Ward Typ
 2019,SM831E,"Ear, Tympanic Membrane, Unilateral,myringotomy without tube",1B,"Ear, creation of hole in eardrum (one side)",Private Hospitals/ Clinics,Clinics,460,749,"1,504",321,500,963,321,500,856,-,-,-,n/a,n/a,n/a,-,-,-,21,182,434
 2019,SM831E,"Ear, Tympanic Membrane, Unilateral,myringotomy without tube",1B,"Ear, creation of hole in eardrum (one side)",Public Hospitals/ Centres (Subsidised),Day Surgery (Subsidised),39,145,237,39,143,182,-,-,-,-,-,-,-,-,-,n/a,n/a,n/a,0,0,63
 2019,SM832E,"Ear, Tympanic Membrane, Unilateral myringotomy with tube",2A,"Ear, insertion of tube into eardrum (one side)",Public Hospitals/ Centres (Subsidised),Day Surgery (Subsidised),327,421,636,276,327,431,-,-,-,-,-,-,-,-,-,n/a,n/a,n/a,0,92,210
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
